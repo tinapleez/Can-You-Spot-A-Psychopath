@@ -2,7 +2,7 @@
 Educational app for Android to teach the general public how to spot the symptoms of the psychopathic neurological disorder
 
 March 2018 in beta on the Google Play Store
-https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath
+<a href="https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath">https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath</a>
 
 Copyright (c) 2018 Tina Taylor
 All Rights Reserved
@@ -19,4 +19,4 @@ This is not a medical diagnostic tool. It is a layperson's guide to identifying 
 
 ![Screenshot4 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/37879587-4c976f08-3049-11e8-9c2a-f31b664f5a46.png "Screenshot4 of Can You Spot A Psychopath")
 
-Find me on the Google Play Store:  https://play.google.com/store/apps/dev?id=6608513362805141707
+Find me on the Google Play Store:  <a href="https://play.google.com/store/apps/dev?id=6608513362805141707">https://play.google.com/store/apps/dev?id=6608513362805141707</a>
