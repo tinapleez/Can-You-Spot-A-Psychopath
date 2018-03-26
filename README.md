@@ -3,10 +3,9 @@ Educational app for Android to teach the general public how to spot the symptoms
 
 March 2018 in beta on the Google Play Store
 <a href="https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath">https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath</a>
+
 ![Get it on Google Play](https://user-images.githubusercontent.com/35104977/37918941-800f2446-30f0-11e8-8d92-61f042551c77.png "Get it on Google Play")
 
-
-<a href="https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath>![](https://user-images.githubusercontent.com/35104977/37918941-800f2446-30f0-11e8-8d92-61f042551c77.png)</a>
 
 Copyright (c) 2018 Tina Taylor
 All Rights Reserved
