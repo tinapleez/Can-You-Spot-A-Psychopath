@@ -2,7 +2,7 @@
 Educational app for Android to teach the general public how to spot the symptoms of the psychopathic neurological disorder
 
 March 2018 in beta on the Google Play Store
-<a href="https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath">https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath</a>
+<a href="https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath">https://play.google.com/apps/testing/org.domesticenemies.canyouspotapsychopath</a>
 
 Copyright (c) 2018 Tina Taylor
 All Rights Reserved
