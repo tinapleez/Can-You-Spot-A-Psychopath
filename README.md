@@ -3,9 +3,9 @@ Educational app for Android to teach the general public how to spot the symptoms
 
 March 2018 in the Google Play Store in **Unreleased Beta**
 
-Please click the link to send me your feedback on the [contact form](http://www.domesticenemies.org/contact.html "Contact form")  Feedback can also be submitted on the app page in the Google Play Store. 
+Please click the link to send me your feedback on the [contact form. ](http://www.domesticenemies.org/contact.html "Contact form")  Feedback can also be submitted on the app page in the Google Play Store. 
 
-If you're interested in improving the language translations, or adding new ones, please refer to [this document](https://docs.google.com/document/d/1j3SYE6aiblJoyldFfjfsxLi8L3inC6HpJ4LdkdRNzb0/edit?usp=sharing "English strings to be translated")
+If you're interested in improving the language translations, or adding new ones, please refer to [this document.](https://docs.google.com/document/d/1j3SYE6aiblJoyldFfjfsxLi8L3inC6HpJ4LdkdRNzb0/edit?usp=sharing "English strings to be translated")
 
 **_Thank you!_**
 
