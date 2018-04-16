@@ -18,10 +18,10 @@ This is not a medical diagnostic tool. It is a layperson's guide to identifying 
 
 
 
-<img src="https://user-images.githubusercontent.com/35104977/38815297-9de19d24-4161-11e8-9bdb-03749e20bcb2.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/35104977/38815297-9de19d24-4161-11e8-9bdb-03749e20bcb2.png" width="400px" />
 
-![Screenshot2 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813553-35cec29c-415d-11e8-9018-fe664926d7b2.png "Screenshot2 of Can You Spot A Psychopath" | width=100px)
+<img src="https://user-images.githubusercontent.com/35104977/38815301-a2e12010-4161-11e8-867a-4bbe93fc2099.png" width="400px" />
 
-![Screenshot3 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813573-4ae9e3dc-415d-11e8-9c08-240aeb6facc5.png "Screenshot3 of Can You Spot A Psychopath" | width=100)
+<img src="https://user-images.githubusercontent.com/35104977/38815313-a804bc14-4161-11e8-8e0b-fe8fe34a87e6.png" width="400px" />
 
 Find me on the Google Play Store:  <a href="https://play.google.com/store/apps/dev?id=6608513362805141707">https://play.google.com/store/apps/dev?id=6608513362805141707</a>
