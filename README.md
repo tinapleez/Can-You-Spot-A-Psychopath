@@ -20,7 +20,7 @@ This is not a medical diagnostic tool. It is a layperson's guide to identifying 
 
 ![Screenshot1 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813544-2ef661e6-415d-11e8-80d6-3954dee3b532.png "Screenshot1 of Can You Spot A Psychopath"){width="100px"}
 
-![Screenshot2 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813553-35cec29c-415d-11e8-9018-fe664926d7b2.png "Screenshot2 of Can You Spot A Psychopath" | width=100)
+![Screenshot2 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813553-35cec29c-415d-11e8-9018-fe664926d7b2.png "Screenshot2 of Can You Spot A Psychopath" | width=100px)
 
 ![Screenshot3 of Can You Spot A Psychopath](https://user-images.githubusercontent.com/35104977/38813573-4ae9e3dc-415d-11e8-9c08-240aeb6facc5.png "Screenshot3 of Can You Spot A Psychopath" | width=100)
 
