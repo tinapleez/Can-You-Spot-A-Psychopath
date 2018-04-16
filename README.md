@@ -18,10 +18,10 @@ This is not a medical diagnostic tool. It is a layperson's guide to identifying 
 
 
 
-<img src="https://user-images.githubusercontent.com/35104977/38815297-9de19d24-4161-11e8-9bdb-03749e20bcb2.png" width="400px" />
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815297-9de19d24-4161-11e8-9bdb-03749e20bcb2.png" alt="Phone Screenshot 1" width="400px" /></p>
 
-<img src="https://user-images.githubusercontent.com/35104977/38815301-a2e12010-4161-11e8-867a-4bbe93fc2099.png" width="400px" />
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815301-a2e12010-4161-11e8-867a-4bbe93fc2099.png" alt="Phone Screenshot 2" width="400px" /></p>
 
-<img src="https://user-images.githubusercontent.com/35104977/38815313-a804bc14-4161-11e8-8e0b-fe8fe34a87e6.png" width="400px" />
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815313-a804bc14-4161-11e8-8e0b-fe8fe34a87e6.png" alt="Phone Screenshot 3" width="400px" /></p>
 
 Find me on the Google Play Store:  <a href="https://play.google.com/store/apps/dev?id=6608513362805141707">https://play.google.com/store/apps/dev?id=6608513362805141707</a>
