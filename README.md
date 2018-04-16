@@ -9,7 +9,7 @@ If you're interested in improving the language translations, or adding new ones,
 
 **_Thank you!_**
 
-<a href="https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath"><img src="https://user-images.githubusercontent.com/35104977/37918941-800f2446-30f0-11e8-8d92-61f042551c77.png" alt="Get it on Google Play"></a>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=org.domesticenemies.canyouspotapsychopath"><img src="https://user-images.githubusercontent.com/35104977/37918941-800f2446-30f0-11e8-8d92-61f042551c77.png" alt="Get it on Google Play"></a></p>
 
 Copyright (c) 2018 Tina Taylor
 All Rights Reserved
