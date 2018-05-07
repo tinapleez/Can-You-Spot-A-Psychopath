@@ -18,10 +18,10 @@ This is not a medical diagnostic tool. It is a layperson's guide to identifying 
 
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815297-9de19d24-4161-11e8-9bdb-03749e20bcb2.png" alt="Phone Screenshot 1" width="400px" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/39725621-74e24418-521a-11e8-80ff-0496f42816de.png" alt="Phone Screenshot 1" width="400px" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815301-a2e12010-4161-11e8-867a-4bbe93fc2099.png" alt="Phone Screenshot 2" width="400px" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/39725629-7cfef128-521a-11e8-80de-50bbb1fd22c3.png" alt="Phone Screenshot 2" width="400px" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/35104977/38815313-a804bc14-4161-11e8-8e0b-fe8fe34a87e6.png" alt="Phone Screenshot 3" width="400px" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/35104977/39725638-8513809a-521a-11e8-814b-46c2b89514cb.png" alt="Phone Screenshot 3" width="400px" /></p>
 
 Find me on the Google Play Store:  <a href="https://play.google.com/store/apps/dev?id=6608513362805141707">https://play.google.com/store/apps/dev?id=6608513362805141707</a>
