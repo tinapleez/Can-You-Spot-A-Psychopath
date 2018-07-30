@@ -1,7 +1,7 @@
 # Can-You-Spot-A-Psychopath
 Educational app for Android to teach the general public how to spot the symptoms of the psychopathic neurological disorder
 
-March 2018 in the Google Play Store in **Unreleased Beta**
+March 2018 in the Google Play Store
 
 Please click the link to send me your suggestions and other feedback on the [contact form. ](http://www.domesticenemies.org/contact.html "Contact form")  Feedback can also be submitted on the app page in the Google Play Store. 
 
